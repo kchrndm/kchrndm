@@ -1,5 +1,8 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm <a href="https://www.instagram.com/kchrndm?igsh=OHM3d25qMm91bWgx&utm_source=qr" target="_blank">Dmitry</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=MGIMO+Alumni;Investment+Analyst+🇷🇺)](https://git.io/typing-svg)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)](https://github.com/piyushsuthar/github-readme-quotes)
 <!--
 **kchrndm/kchrndm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
